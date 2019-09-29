@@ -1,3 +1,7 @@
+# macos
+*.icloud
+.DS_store
+
 # Logs
 logs
 *.log
